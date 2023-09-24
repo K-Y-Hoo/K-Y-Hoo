@@ -1,5 +1,4 @@
 ### Frontend Developer
-<br/>
 <ul>
 <li>새로운 기술을 배우는 것에 흥미를 느낍니다.</li>
 <li>제가 만든 기능을 사용자가 직접 사용할 때 기쁨을 느낍니다.</li>
@@ -7,9 +6,7 @@
 </ul>
 <br/>
 
-
-### Skills<br/>
-
+### Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -18,9 +15,6 @@
 </p>
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
+### Projects
+- 꿈나무 한입 : 결식 아동들을 위한 정보(꿈나무 카드 결제 가맹점 및 선한 영향력 가게의 위치, 위생 등급 등)를 제공하는 어플입니다.
 
