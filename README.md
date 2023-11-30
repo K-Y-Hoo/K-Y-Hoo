@@ -20,4 +20,8 @@
 ### Projects
 - 꿈나무 한입 : 결식 아동들을 위한 정보(꿈나무 카드 결제 가맹점 및 선한 영향력 가게의 위치, 위생 등급 등) 제공 어플 - [[Github](https://github.com/SunEom/a-Dream-Leaf)] 
 - rolling : 누구나 손쉽게 만들 수 있는 온라인 롤링 페이퍼 서비스 - [[Github](https://github.com/Rolligo/rolling)][[배포 링크](https://rolling-paper.netlify.app/)]
+- - -
 <br/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bookopen)](https://solved.ac/bookopen)
