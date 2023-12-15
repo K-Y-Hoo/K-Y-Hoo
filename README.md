@@ -1,4 +1,4 @@
-### 안녕하세요. 프론트엔드 개발자를 꿈꾸는 김윤후입니다.
+# FrontEnd Developer
 <ul>
 <li>새로운 기술을 배우는 것에 흥미를 느낍니다.</li>
 <li>제가 만든 기능을 사용자가 직접 사용할 때 기쁨을 느낍니다.</li>
@@ -6,16 +6,47 @@
 </ul>
 <br/>
 
-### Skills
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=black">
-</p>
-<br/>
+## Skills
+
+### MarkUp & Styling
+<div>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- CSS Modules-->
+  <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
+  <!-- styled-components -->
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>
+
+### Language
+<div>
+  <!-- JavasScript -->
+  <img src= "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- TypeScript -->
+  <img src= "https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+
+### Library & Framework
+<div>
+  <!-- React -->
+  <img src= "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <!-- Next.js -->
+  <img src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <!-- React-Query -->
+  <img src= "https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+  <!-- MongoDB -->
+  <img src= "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <!-- Redux Tool Kit -->
+<!--   <img src= "https://img.shields.io/badge/redux tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white"> -->
+  <!-- Recoil -->
+<!--   <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=recoil&logoColor=white"> -->
+  <!-- Zustand -->
+<!--   <img src= "https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=&logoColor=white"> -->
+  <!-- Firebase -->
+<!--   <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
+</div>
 
 ### Projects
 - 꿈나무 한입 : 결식 아동들을 위한 정보(꿈나무 카드 결제 가맹점 및 선한 영향력 가게의 위치, 위생 등급 등) 제공 어플 - [[Github](https://github.com/SunEom/a-Dream-Leaf)] 
