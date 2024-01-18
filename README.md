@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
   <!-- styled-components -->
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <!-- tailwind css -->
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss">
 </div>
 
 ### Language
@@ -35,6 +37,8 @@
   <img src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <!-- React-Query -->
   <img src= "https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+  <!-- Zustand -->
+  <img src= "https://img.shields.io/badge/zustand-FF4114?style=for-the-badge&logo=&logoColor=white">
   <!-- SWR -->
   <img src= "https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">
   <!-- MongoDB -->
@@ -43,8 +47,6 @@
 <!--   <img src= "https://img.shields.io/badge/redux tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white"> -->
   <!-- Recoil -->
 <!--   <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=recoil&logoColor=white"> -->
-  <!-- Zustand -->
-<!--   <img src= "https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=&logoColor=white"> -->
   <!-- Firebase -->
 <!--   <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
 </div>
