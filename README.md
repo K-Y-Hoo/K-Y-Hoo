@@ -7,21 +7,7 @@
 
 ## Skills
 
-### MarkUp & Styling
-<div>
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <!-- CSS Modules-->
-  <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
-  <!-- styled-components -->
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <!-- tailwind css -->
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss">
-</div>
-
-### Language
+### Frontend
 <div>
   <!-- JavasScript -->
   <img src= "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,7 +15,6 @@
   <img src= "https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-### Library & Framework
 <div>
   <!-- React -->
   <img src= "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -41,14 +26,43 @@
   <img src= "https://img.shields.io/badge/zustand-FF4114?style=for-the-badge&logo=&logoColor=white">
   <!-- SWR -->
   <img src= "https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white">
+</div>
+
+<div>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- CSS Modules-->
+  <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
+  <!-- Styled-Components -->
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss">
+</div>
+
+### Backend
+<div>
+  <!-- Node.js -->
+  <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <!-- Express.js -->
+  <img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <!-- MongoDB -->
   <img src= "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <!-- Redux Tool Kit -->
-<!--   <img src= "https://img.shields.io/badge/redux tool kit-764ABC?style=for-the-badge&logo=redux&logoColor=white"> -->
-  <!-- Recoil -->
-<!--   <img src= "https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logo=recoil&logoColor=white"> -->
+  <!-- AWS -->
+  <img src= "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <!-- Firebase -->
-<!--   <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> -->
+  <img src= "https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <!-- Google Cloud Platform -->
+  <img src= "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+</div>
+
+### Game
+<div>
+  <!-- C# -->
+  <img src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <!-- Unity -->
+  <img src= "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ## Projects
