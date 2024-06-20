@@ -1,4 +1,4 @@
-# FrontEnd Developer
+# Frontend && Backend Developer
 <ul>
 <li>새로운 기술을 배우는 것에 흥미를 느낍니다.</li>
 <li>제가 만든 기능을 사용자가 직접 사용할 때 기쁨을 느낍니다.</li>
@@ -53,10 +53,11 @@
 
 ## Projects
 <div>
-  
-- PLANTS : 칸반 보드를 사용하여 일정을 계획하고 관리하는 웹사이트 서비스 - [[Github 링크](https://github.com/Team-Plants/PLANTS)] [[배포 링크](https://lets-plants.vercel.app/)]
-- rolling : 누구나 손쉽게 만들 수 있는 온라인 롤링 페이퍼 서비스 - [[Github 링크](https://github.com/Rolligo/rolling)] [[배포 링크](https://rolling-paper.netlify.app/)]
-- 꿈나무 한입 : 결식 아동들을 위한 정보(꿈나무 카드 결제 가맹점 및 선한 영향력 가게의 위치, 위생 등급 등) 제공 어플 - [[Github](https://github.com/SunEom/a-Dream-Leaf)]
+
+- 아트톡톡 : 대학생들의 작품을 더 가까이 살펴볼 수 있는 웹 서비스 - [[Github 링크](https://github.com/ArtTalkTalk/ArtTalkTalk_frontend)]
+- PLANTS : 칸반 보드를 사용하여 일정을 계획하고 관리하는 웹 서비스 - [[Github 링크](https://github.com/Team-Plants/PLANTS)] [[배포 링크](https://lets-plants.vercel.app/)]
+- rolling : 누구나 손쉽게 만들 수 있는 웹 롤링 페이퍼 서비스 - [[Github 링크](https://github.com/Rolligo/rolling)] [[배포 링크](https://rolling-paper.netlify.app/)]
+- 꿈나무 한입 : 결식 아동들을 위한 정보(꿈나무 카드 결제 가맹점 및 선한 영향력 가게의 위치, 위생 등급 등) 제공 애플리케이션 - [[Github](https://github.com/SunEom/a-Dream-Leaf)]
 
 </div>
 
